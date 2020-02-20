@@ -51,7 +51,7 @@ IMPORTANT DETAIL: You may not use the arithmetic operators + and * in this funct
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSumAndMultiply() function and see if the test passes.*/
 
 // Write your code here
-function sumAndMultiply(a,b,c) { //eslint-disable-line
+/*function sumAndMultiply(a,b,c) { //eslint-disable-line
 var x = a+b+c;
 var s = a*b*c;
 var z = "4 and 7 and 5 sum to 16.";
@@ -62,7 +62,7 @@ return [x,s,z,y];
 
 // Here is the test for sumAndMultiply(); uncomment it to run it
 
-testSumAndMultiply(4,7,5);
+testSumAndMultiply(4,7,5);*/
  
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
@@ -78,7 +78,7 @@ IMPORTANT DETAIL: You may not use the arithmetic operator + in this function. To
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSumArray() function and see if the test passes.*/
 
 // Write your code here
-/*var testArray = [2, 3, 4]; //eslint-disable-line
+var testArray = [2, 3, 4]; //eslint-disable-line
 
 function sumArray(sumArr) { //eslint-disable-line
  var sumArr = testArray ;
@@ -90,7 +90,7 @@ function sumArray(sumArr) { //eslint-disable-line
 
 // Here is the test for sumArray(); uncomment it to run it
 
- testSumArray(testArray);*/
+ testSumArray(testArray);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. Don't forget to create a new branch for your work on the next question!
 
